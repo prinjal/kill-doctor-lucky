@@ -1,14 +1,5 @@
 # CS 5010 Semester Project
 
-This repo represents the coursework for CS 5010, the Spring 2022 Edition!
-
-**Name:** Meet Navnitbhai Vora, Prinjal Mayur Dave
-
-**Email:** vora.me@northeastern.edu, dave.pri@northeastern.edu
-
-**Preferred Name:** Meet, Prinjal
-
-
 
 ### About/Overview
 
@@ -32,9 +23,7 @@ For View used Swing library.
 
 ### How to Run
 
-1. Run Cmd
-2. Type command => `java -jar <path of jar file> <max-turns>`. for e.g. ==> (java -jar milestone.jar 5)
-3. Press enter
+1. Run the executable JAR file.
 
 
 ### How to Use the Program
