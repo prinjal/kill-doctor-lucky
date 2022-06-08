@@ -2,11 +2,11 @@
 
 This repo represents the coursework for CS 5010, the Spring 2022 Edition!
 
-**Name:** Meet Navnitbhai Vora, Prinjal Mayur Dave
+**Name:** Prinjal Mayur Dave
 
-**Email:** vora.me@northeastern.edu, dave.pri@northeastern.edu
+**Email:** dave.pri@northeastern.edu
 
-**Preferred Name:** Meet, Prinjal
+**Preferred Name:** Prinjal
 
 
 
