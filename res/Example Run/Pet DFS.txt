@@ -1,0 +1,224 @@
+java -jar Milestone_3_Gameplay.jar mansion.txt 30
+
+World has been created
+Welcome to Kill Doctor Lucky
+Below is the list of spaces in this world:
+[Armory, Billiard Room, Carriage House, Dining Hall, Drawing Room, Foyer, Green House, Hedge Maze, Kitchen, Lancaster Room, Library, Lilac Room, Master Suite, Nursery, Parlor, Piazza, Servants' Quarters, Tennessee Room, Trophy Room, Wine Cellar, Winter Garden]
+Would you like to add Human Player? (y/n): y
+Enter number of Players (1-7):
+1
+Enter Name of the Player 1: 
+Jack
+Enter Space Player wants to enter in: 
+Drawing Room
+Enter bag limit: 4
+
+Jack moved to Drawing Room
+
+Would you like to add Computer Player? (y/n): n
+
+Its Jack's turn
+Your current location: Drawing Room
+Number of item(s) in this space: 1
+
+Target's current details
+Target name: 'Doctor Lucky' Health: '50' Space Location: 0 Space Name: Armory
+
+Enter a valid move from the below commands:
+1.Move
+2.Pick Item
+3.Look around
+4.Move Pet
+5.Hit Target
+6.Display my Information
+7.Display Player Information
+8.Draw World
+9.Press q to quit game
+3
+
+Jack has selected move 3
+Jack's current location:
+Space Name: 'Drawing Room' Space Index: '4'
+Item name: 'Letter Opener' Damage: '2'
+Player(s): [Jack]
+Neighbors: [Foyer, Dining Hall, Wine Cellar]
+
+Neighboring spaces from Jack's current location:
+/***************************************/
+Space Name: 'Foyer' Space Index: '5'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Dining Hall' Space Index: '3'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Wine Cellar' Space Index: '19'
+Item name: 'Rat Poison' Damage: '2'
+Item name: 'Piece of Rope' Damage: '2'
+Player(s): []
+/***************************************/
+
+
+Its Jack's turn
+Your current location: Drawing Room
+Number of item(s) in this space: 1
+
+Target's current details
+Target name: 'Doctor Lucky' Health: '50' Space Location: 1 Space Name: Billiard Room
+
+Enter a valid move from the below commands:
+1.Move
+2.Pick Item
+3.Look around
+4.Move Pet
+5.Hit Target
+6.Display my Information
+7.Display Player Information
+8.Draw World
+9.Press q to quit game
+3
+
+Jack has selected move 3
+Jack's current location:
+Space Name: 'Drawing Room' Space Index: '4'
+Item name: 'Letter Opener' Damage: '2'
+Player(s): [Jack]
+Neighbors: [Foyer, Dining Hall, Armory, Wine Cellar]
+
+Neighboring spaces from Jack's current location:
+/***************************************/
+Space Name: 'Foyer' Space Index: '5'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Dining Hall' Space Index: '3'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Armory' Space Index: '0'
+Item name: 'Revolver' Damage: '3'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Wine Cellar' Space Index: '19'
+Item name: 'Rat Poison' Damage: '2'
+Item name: 'Piece of Rope' Damage: '2'
+Player(s): []
+/***************************************/
+
+
+Its Jack's turn
+Your current location: Drawing Room
+Number of item(s) in this space: 1
+
+Target's current details
+Target name: 'Doctor Lucky' Health: '50' Space Location: 2 Space Name: Carriage House
+
+Enter a valid move from the below commands:
+1.Move
+2.Pick Item
+3.Look around
+4.Move Pet
+5.Hit Target
+6.Display my Information
+7.Display Player Information
+8.Draw World
+9.Press q to quit game
+3
+
+Jack has selected move 3
+Jack's current location:
+Space Name: 'Drawing Room' Space Index: '4'
+Item name: 'Letter Opener' Damage: '2'
+Player(s): [Jack]
+Neighbors: [Foyer, Armory, Wine Cellar]
+
+Neighboring spaces from Jack's current location:
+/***************************************/
+Space Name: 'Foyer' Space Index: '5'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Armory' Space Index: '0'
+Item name: 'Revolver' Damage: '3'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Wine Cellar' Space Index: '19'
+Item name: 'Rat Poison' Damage: '2'
+Item name: 'Piece of Rope' Damage: '2'
+Player(s): []
+/***************************************/
+
+
+Its Jack's turn
+Your current location: Drawing Room
+Number of item(s) in this space: 1
+
+Target's current details
+Target name: 'Doctor Lucky' Health: '50' Space Location: 3 Space Name: Dining Hall
+
+Enter a valid move from the below commands:
+1.Move
+2.Pick Item
+3.Look around
+4.Move Pet
+5.Hit Target
+6.Display my Information
+7.Display Player Information
+8.Draw World
+9.Press q to quit game
+3
+
+Jack has selected move 3
+Jack's current location:
+Space Name: 'Drawing Room' Space Index: '4'
+Item name: 'Letter Opener' Damage: '2'
+Player(s): [Jack]
+Neighbors: [Foyer, Dining Hall, Armory, Wine Cellar]
+
+Neighboring spaces from Jack's current location:
+/***************************************/
+Space Name: 'Foyer' Space Index: '5'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Dining Hall' Space Index: '3'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Armory' Space Index: '0'
+Item name: 'Revolver' Damage: '3'
+Player(s): []
+/***************************************/
+/***************************************/
+Space Name: 'Wine Cellar' Space Index: '19'
+Item name: 'Rat Poison' Damage: '2'
+Item name: 'Piece of Rope' Damage: '2'
+Player(s): []
+/***************************************/
+
+
+Its Jack's turn
+Your current location: Drawing Room
+Number of item(s) in this space: 1
+
+Target's current details
+Target name: 'Doctor Lucky' Health: '50' Space Location: 4 Space Name: Drawing Room
+
+Enter a valid move from the below commands:
+1.Move
+2.Pick Item
+3.Look around
+4.Move Pet
+5.Hit Target
+6.Display my Information
+7.Display Player Information
+8.Draw World
+9.Press q to quit game
+q
+
+Jack has selected move q
+
+Process finished with exit code 0
